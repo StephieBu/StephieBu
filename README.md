@@ -7,5 +7,3 @@ My academic journey, especially my thesis work, sparked a particular interest in
 
 I’m currently looking to contribute to impactful projects where I can apply my skills, expand my expertise, and work collaboratively to develop effective data strategies and solutions.
 
-**StephieBu/StephieBu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
