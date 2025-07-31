@@ -1,5 +1,4 @@
 ## Hi there 👋
-Here are some ideas to get you started:
 
 I am an aspiring data scientist who recently graduated with a Master’s in Data Science. With a strong enthusiasm for machine learning, deep learning, and building innovative, data-driven solutions, I am always seeking opportunities to grow and collaborate.
 
